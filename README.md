@@ -10,5 +10,12 @@ Vite는 빠른 개발 환경을 제공합니다. 코드 수정 시 빠른 리로
 <details>
     <summary>git 업로드 버그</summary>
     -git 업로드 설정 403에러 : git remote set-url origin https://moon411@github.com/mooon411/vite-project2023.git
-    
+
+    git add .
+    git status
+    git commit -m "수정"
+    git push -u origin main
+
+    -> 재로그인 및 신규 토큰 삽입 후 사용자 권한 인증
+
 </details>
