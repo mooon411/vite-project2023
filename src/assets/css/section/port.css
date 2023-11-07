@@ -1,6 +1,6 @@
 #port {
     background: #eaf2ff;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 .port__title {
     width: 50%;
@@ -15,7 +15,7 @@
     position: sticky;
     top: 70px;
     left: 0;
-    margin-bottom: 2rem;
+    margin-bottom: 10vh;
 }
 .port__title em {
     display: block;
@@ -35,7 +35,7 @@
 }
 .port__item {
     width: 500px;
-    /* height: 70vh; */
+    min-height: 70vh;
     height: auto;
     margin-right: 20px;
     background-color: rgba(255, 255, 255, 0.459);
