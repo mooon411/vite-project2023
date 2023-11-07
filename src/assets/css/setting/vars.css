@@ -4,7 +4,7 @@
     --mainNum-font: "gmarket";
     --mfont: "Unbounded";
 
-    --mainBg-color: #ffffff;
+    --mainBg-color:  #eaf2ff;
     --subBg100: #eee;
     --subBg200: #d2d2d2;
     --subBg300: #c3c3c3;
@@ -33,8 +33,7 @@
     --bcolor: #AEDEFC;
     --zcolor: rgb(163, 206, 255);
     --zcolorUp: rgb(123, 184, 255);
-    /* --zcolor: rgb(152, 69, 118);
-    --zcolorUp: rgb(174, 87, 138); */
+
 
     /* 기본 폰트 설정 */
     font-family: var(--mainEng-font), var(--mainKor-font);
