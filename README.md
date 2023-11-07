@@ -29,6 +29,10 @@ Vite는 빠른 개발 환경을 제공합니다. 코드 수정 시 빠른 리로
     
     -git 업로드 설정 403에러 :
     
+    : 유저 설정
+    git config user.name "moon0411"
+    git config user.email "duddls0411@gmail.com"
+    
     git remote set-url origin https://moon411@github.com/mooon411/vite-project2023.git
 
     git add .
