@@ -1,5 +1,7 @@
 # vite를 이용한 포트폴리오 사이트 만들기
 
+[사이트 바로가기](https://port-vite2023.netlify.app/)
+
 ## vite를 사용하는 이유
 
 vite는 현대적인 프론트엔드 개발에서 인기 있는 도구입니다.
@@ -12,7 +14,7 @@ Vite는 빠른 개발 환경을 제공합니다. 코드 수정 시 빠른 리로
 ## 구현 기능
 
 - 구글 폰트 적용
-- smooth 효과 적용 `https://lenis.studiofreight.com/`
+- smooth 효과 적용 [lenis](https://lenis.studiofreight.com/)
 - 자바스크립트 메뉴 클릭 이동 효과 적용
 - GSAP를 이용한 가로 효과
 - javascript 모듈 기능 적용
